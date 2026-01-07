@@ -10,7 +10,7 @@
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## MRAC0X(XX/XX): ClassName XX - Student Project Name
+## MRAC01(25/26): Workshop 2.1 - Pancake Flipping
 <!--Write a few sentences of academic context and project description -->  
 This project aims to demonstrate a fantastic application using fascinating technologies, developed within the scope of the best class ever.   
 ## Overview
