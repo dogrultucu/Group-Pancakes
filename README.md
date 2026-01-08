@@ -1,86 +1,55 @@
-# Group Project Repository Submission Template 
-## Index
-  - [Overview](#overview) 
-  - [Getting Started](#getting-started)
-  - [Demo](#demo)
-  - [Authors](#authors)
-  - [References](#references)
-  - [Credits](#credits)
-<!--  Other options to write Readme
-  - [Deployment](#deployment)
-  - [Used or Referenced Projects](Used-or-Referenced-Projects)
+# Group C: Project Pancake
+
 -->
 ## MRAC01(25/26): Workshop 2.1 - Pancake Flipping
-<!--Write a few sentences of academic context and project description -->  
-This project aims to demonstrate a fantastic application using fascinating technologies, developed within the scope of the best class ever.   
+
 ## Overview
-<!-- Write Overview about this project -->
-The project's justification, state-of-the-art, and inspiration live in this section.
+Our group looked at how a robot could flip a pancake. Our initial conversations were about the act of flipping itself. Would this be:
+      1) Flipping the pancake through the air using the motion of the robots arm on the cooking surface
+      2) Flipping the pancake by covering the cooking surface with another surface and rotating the robot arm
+      3) Flipping the pancake by rotating it around a utensil whilst the cooking surface stayed in the same location
+
+
+https://www.youtubeeducation.com/watch?v=W_gxLKSsSIE
+
 
 ## Getting Started
+To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not.
+
 
 ### Prerequisites
-Ensure that you fulfill the following criteria to replicate this project.
-* Ubuntu LTS 20.04 <
-* Python 3.7 <
-* Docker
+In the end we agreed the following initial pancake conditions
 
-### Depencies
-The project's dependencies include:
-* Numpy - for matrix manipulation
-* OpenCV - for image processing
-* ROS - for interfacing with the robot
+      
+    -Scotch pancake type
+    -Pancake size: ~12cm diameter (~40-45 grams of batter initially)
+    -2 teaspoons of oil initially
+    -Initially 1 pancake at a time to increase with success
+    -Aluminium forged Zircon coating 25cm diameter pancake pan
+    -Pan heat to be measured around 185-190 degree Celsius (at centre and sides)
+    -using a microfibre cloth towel and water to cool down/ clean pan after each round
 
-The dependencies are satisfied using the following sources:
+In the end we agreed the following initial flipping conditions also
 
-```bash
-# ROS Noetic and core dependencies
-wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh
-# install numpy
-pip3 install numpy setuptools
-```
+      
+    -Clean swipe entire length of pancake followed with 90 degree XY- rotation with spatula to remove pancakes
+    -Flip style to use robot arms and motion force generated against lip of pan
 
-### Installing
-A step by step series of examples that tell you how to get a development 
-env running
-
-```bash
-cd ~/catkin_ws/src
-git submodule init
-git submodule update
-cd ../
-rosdep install --from-paths src --ignore-src -r -y
-catkin_make -DCMAKE_BUILD_TYPE=Release
-source ./devel/setup.bash
-```
-### Deployment
-Add additional notes about how to deploy this on a live system
-* Run the application with `.docker/run_user_nvidia.sh`
-* Ensure that you are running the indicate command `sudo chmod -R <user_name> \dev_ws` for permitions
-* Run `terminator`
-
-## Demo
-Here is what the project can do and what are the results.
-
-The project can be launched with the following command:
-* `roslaunch package_name package_name.launch`
-
-This opens up `rviz` and shows the robot moving around
 
 ## Authors
-  - [Name](insert linkedin/webpage link) - role
+
+  - Onur Dogrultucu
+  - Priyam Ravinder
+  - Sam Holcombe
+
 
 ## References
-- [K. Albee et al., “A robust observation, planning, and control pipeline for autonomous rendezvous with tumbling targets,” Frontiers in Robotics and AI, vol. 8, p. 234, 2021, doi: 10.3389/frobt.2021.641338.](https://www.frontiersin.org/articles/10.3389/frobt.2021.641338/full)
+- to be added
 
-## Credits
-  - [Name](insert linkedin/webpage link) - role
 
-<!--  DO NOT REMOVE
--->
 #### Acknowledgements
 
-- Creation of GitHub template: [Marita Georganta](https://www.linkedin.com/in/marita-georganta/) - Robotic Sensing Expert
-- Creation of MRAC-IAAC GitHub Structure: [Huanyu Li](https://www.linkedin.com/in/huanyu-li-457590268/) - Robotic Researcher
+Huanyu Li - Course Leader and Robotic Researcher
+Prottay-Roy-Chowdhury - Course Teacher and Robotic Researcher
 
 
