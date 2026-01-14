@@ -14,7 +14,7 @@ https://www.youtubeeducation.com/watch?v=W_gxLKSsSIE
 
 
 ## Getting Started
-To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not.
+To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not..
 
 
 ### Prerequisites
