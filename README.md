@@ -14,14 +14,14 @@ https://www.youtubeeducation.com/watch?v=W_gxLKSsSIE
 
 
 ## Getting Started
-To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not..
+To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not.
 
 
 ### Prerequisites
 In the end we agreed the following initial pancake conditions
 
       
-    -Scotch pancake type
+    -Scotch pancake as the type of pancake
     -Pancake size: ~12cm diameter (~40-45 grams of batter initially)
     -2 teaspoons of oil initially
     -Initially 1 pancake at a time to increase with success
