@@ -16,6 +16,20 @@ https://www.youtubeeducation.com/watch?v=W_gxLKSsSIE
 ## Getting Started
 To first start we chose to each look separately at the above three methods for flipping a pancake. Analysing the first steps separately meant we could think about what was the elemental to the concept or not.
 
+### Step 1. Define Parameters for the type of Pancake 
+1. Define type of Pancake 
+2. Define type of batter consistency 
+3. Define the ingredients for batter 
+4. define quantities for each ingredient 
+
+### Step 2. Define the process of pouring and spreading the batter on the pan
+1. If the pancake is fluffy in nature, it maynot require spreading 
+2. if the pancake ios like crepe, it may require spreading apparatus, after the squeezing process 
+3. if the panacake is a type of waffle then we define that  we change the process of cooking, by installing a wafflemaker 
+
+### Step 3. Define the process of pouring and spreading the batter on the pan
+
+
 
 ### Prerequisites
 In the end we agreed the following initial pancake conditions
